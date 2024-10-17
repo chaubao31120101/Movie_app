@@ -79,7 +79,7 @@ function App(): React.JSX.Element {
           style={{
             backgroundColor: isDarkMode ? Colors.black : Colors.white,
           }}>
-          <Section title="Welcom Group 1">
+          <Section title="Welcom Group 1_Movie App">
             Welcome <Text style={styles.highlight}>App.tsx</Text> MovieApp
           </Section>
           
